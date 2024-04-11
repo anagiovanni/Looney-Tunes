@@ -1,0 +1,83 @@
+{
+    "personagens": [
+      {
+        "nome": "Pernalonga",
+        "descricao": "O coelho mais famoso da animação, conhecido por sua sagacidade afiada e senso de humor peculiar. Sua frase marcante é \"O que é que há, velhinho?\"",
+        "foto": "\\img\\Personagens\\Pernalonga.png",
+        "onde_nasceu": "Desconhecido",
+        "especie": "Coelho"
+      },
+      {
+        "nome": "Piu-Piu",
+        "descricao": "Um passarinho amarelo adorável, conhecido por sua voz aguda e travessuras. Enfrenta vilões como o gato Frajola.",
+        "foto": "\\img\\Personagens\\piupiu.png",
+        "onde_nasceu": "Desconhecido",
+        "especie": "Ave"
+      },
+      {
+        "nome": "Patolino",
+        "descricao": "Um pato preto com voz estridente e personalidade extravagante. Faz parte das aventuras ao lado de Pernalonga.",
+        "foto": "\\img\\Personagens\\patolino.png",
+        "onde_nasceu": "Desconhecido",
+        "especie": "Pato"
+      },
+      {
+        "nome": "Gaguinho",
+        "descricao": "O gago e adorável Porquinho Pig, com sua personalidade gentil e atrapalhada, é um dos personagens que têm resistido ao teste do tempo. Ele frequentemente se envolve em situações hilárias, tornando-se uma peça fundamental no mundo dos Looney Tunes.",
+        "foto": "\\img\\Personagens\\Pigs.png",
+        "onde_nasceu": "Desconhecido",
+        "especie": "Porco"
+      },
+      {
+        "nome": "Frajola",
+        "descricao": "Frajola é um dos personagens mais persistentes dos Looney Tunes. Sua busca interminável por Piu-Piu é uma das rivalidades mais famosas da animação, e suas tentativas cômicas e fracassadas de capturá-lo fazem dele um dos vilões mais queridos.",
+        "foto": "\\img\\Personagens\\Frajola.png",
+        "onde_nasceu": "Desconhecido",
+        "especie": "Gato"
+      },
+      {
+        "nome": "Coiote",
+        "descricao": "Quando se trata de persistência em busca de uma refeição, o Coiote leva o prêmio. Seus planos elaborados e inovadores para capturar o Papa-Léguas são sempre repletos de falhas épicas, mas sua determinação é digna de admiração. Suas acrobacias exageradas e momentos de fracasso continuam a fazer rir fãs de todas as idades.",
+        "foto": "https://static.wikia.nocookie.net/dublagempedia/images/6/62/Looneytunes-coyote.webp/revision/latest?cb=20240113142051&path-prefix=pt-br",
+        "onde_nasceu": "Desconhecido",
+        "especie": "Coiote"
+      },
+      {
+        "nome": "Papa-Léguas",
+        "descricao": "O parceiro de “crime” do Coiote, o Papa-Léguas, é conhecido por sua velocidade impressionante e pelo icônico “Beep Beep!” que emite enquanto corre.",
+        "foto": "https://static.wikia.nocookie.net/liberproeliis/images/c/c9/Papalegua.png/revision/latest?cb=20200215232451&path-prefix=pt-br",
+        "onde_nasceu": "Desconhecido",
+        "especie": "Ave"
+      },
+      {
+        "nome": "Frajola Junior",
+        "descricao": "O filho de Frajola, conhecido como Frajola Junior, segue os passos de seu pai na busca por Piu-Piu. Sua ingenuidade e determinação são igualmente cativantes.",
+        "foto": "https://www.pngkey.com/png/full/527-5273037_dibujos-ideia-criativa-desenho-baby-looney-tunes-frajola.png",
+        "onde_nasceu": "Desconhecido",
+        "especie": "Gato"
+      },
+      {
+        "nome": "Lola Bunny",
+        "descricao": "Lola Bunny é uma coelha atlética e destemida. Ela é uma jogadora de basquete talentosa e muitas vezes se junta aos Looney Tunes em suas aventuras esportivas.",
+        "foto": "https://i.pinimg.com/originals/f8/60/c5/f860c5c496a037a9bea8b41d6f3ba9a1.png",
+        "onde_nasceu": "Desconhecido",
+        "especie": "Coelho"
+      },
+      {
+        "nome": "Taz",
+        "descricao": "O Diabo da Tasmânia, também conhecido como Taz, é um furacão de energia e caos. Ele gira em alta velocidade e devora tudo em seu caminho.",
+        "foto": "https://static.wikia.nocookie.net/desenhos-animados/images/a/a3/Taz.png/revision/latest?cb=20160425185416",
+        "onde_nasceu": "Tasmânia",
+        "especie": "Diabo da Tasmânia"
+      },
+      {
+        "nome": "Frangolino",
+        "descricao": "Frangolino é um galo briguento e sempre está pronto para uma confusão. Ele tem uma personalidade explosiva e muitas vezes se mete em encrenca.",
+        "foto": "https://static.wikia.nocookie.net/dublagempedia/images/f/fc/22c3bdc4b5a9dc21b9dcb6fbe35f5bcb.png/revision/latest?cb=20171129204748&path-prefix=pt-br",
+        "onde_nasceu": "Desconhecido",
+        "especie": "Galo"
+      }
+    ]
+  }
+   
+  
