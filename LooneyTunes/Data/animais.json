@@ -1,29 +1,38 @@
-{
-    "Animais": [
-      {
-        "Nome": "Coelho"
-      },
-      {
-        "Nome": "Pato"
-      },
-      {
-        "Nome": "Porco"
-      },
-      {
-        "Nome": "Gato"
-      },
-      {
-        "Nome": "Coiote"
-      },
-      {
-        "Nome": "Ave"
-      },
-      {
-        "Nome": "Diabo da Tasmânia"
-      },
-      {
-        "Nome": "Galo"
-      }
-    ]
+[
+  {
+    "Nome": "Coelho",
+    "Cor": "#A5A5A5"
+  },
+  {
+    "Nome": "Pato",
+    "Cor": "#EB4C1A"
+  },
+  {
+    "Nome": "Porco",
+    "Cor": "#FF00B8"
+  },
+  {
+    "Nome": "Gato",
+    "Cor": "#F2D020"
+  },
+  {
+    "Nome": "Coiote",
+    "Cor": "#FF7A00"
+  },
+  {
+    "Nome": "Ave",
+    "Cor": "#FF0000"
+  },
+  {
+    "Nome": "Diabo-Da-Tasmania",
+    "Cor": "#56312E"
+  },
+  {
+    "Nome": "Galo",
+    "Cor": "#20B3F2"
+  },
+  {
+    "Nome": "Rato",
+    "Cor": "#20F24E"
   }
-  
+]
