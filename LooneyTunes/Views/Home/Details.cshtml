@@ -46,12 +46,10 @@
             <p class="fw-bold">Tipo de Animal</p>
 
             <div class="btn-group">
-                @foreach (var especie in Model.Atual.Especie)
-                {
-                    <a href="#" class="btn btn-lg text-white" style="background-color:@Cor(especie.ToString())">
-                        @especie
+                    <a href="#" class="btn btn-lg text-white" style="background-color:@Cor(@Model.Atual.Especie)">
+                        @Model.Atual.Especie
                     </a>
-                }
+
 
             </div>
         </div>

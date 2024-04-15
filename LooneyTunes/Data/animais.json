@@ -9,7 +9,7 @@
   },
   {
     "Nome": "Porco",
-    "Cor": "#FF00B8"
+    "Cor": "#DFADFF"
   },
   {
     "Nome": "Gato",
@@ -17,22 +17,22 @@
   },
   {
     "Nome": "Coiote",
-    "Cor": "#FF7A00"
+    "Cor": "#FCA574"
   },
   {
     "Nome": "Ave",
-    "Cor": "#FF0000"
+    "Cor": "#FF564F"
   },
   {
     "Nome": "Diabo-Da-Tasmania",
-    "Cor": "#56312E"
+    "Cor": "#FF7D4C"
   },
   {
     "Nome": "Galo",
-    "Cor": "#20B3F2"
+    "Cor": "#1AC1FF"
   },
   {
     "Nome": "Rato",
-    "Cor": "#20F24E"
+    "Cor": "#82FF9D"
   }
 ]
